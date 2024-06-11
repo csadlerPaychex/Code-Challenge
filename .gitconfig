@@ -1,0 +1,12 @@
+[user]
+	name = Clayton Sadler
+	email = csadler@paychex.com
+[credential "https://code.paychex.com"]
+	provider = bitbucket
+[difftool "sourcetree"]
+	cmd = '' \"$LOCAL\" \"$REMOTE\"
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
+[http]
+	sslbackend = schannel
