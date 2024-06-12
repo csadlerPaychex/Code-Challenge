@@ -29,9 +29,13 @@ namespace challenge.Repositories
 
         public Employee GetById(string id)
         {
-            var currentEmployee = _employeeContext.Employees.Include(e => e.DirectReports).ThenInclude(report => report.DirectReports).SingleOrDefault(e => e.EmployeeId == id);
+            var currentEmployee = _employeeContext.Employees.Include(e => e.DirectReports).SingleOrDefault(e => e.EmployeeId == id);
+            if (currentEmployee == null)
+            {
+                return null;
+            }
             LoadDirectReports(currentEmployee);
-            return _employeeContext.Employees.Include(e => e.DirectReports).ThenInclude(report => report.DirectReports).SingleOrDefault(e => e.EmployeeId == id);
+            return currentEmployee;
         }
 
         private void LoadDirectReports (Employee employee)

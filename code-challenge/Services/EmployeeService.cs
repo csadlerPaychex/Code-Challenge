@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using challenge.Models;
 using Microsoft.Extensions.Logging;
 using challenge.Repositories;
+using challenge.Services;
 
 namespace challenge.Services
 {
@@ -32,7 +33,8 @@ namespace challenge.Services
 
         public Employee GetById(string id)
         {
-            if(!String.IsNullOrEmpty(id))
+            _logger.LogDebug($"Recieved services GetById call for '{id}'");
+            if (!String.IsNullOrEmpty(id))
             {
                 return _employeeRepository.GetById(id);
             }
@@ -61,10 +63,8 @@ namespace challenge.Services
         }
         public ReportingStructure GetReportingStructure(string id)
         {
-            _logger.LogDebug($"Recieved services CountReports call for '{id}'");
             var currentEmployee = GetById(id);
             var count = currentEmployee.DirectReports.Count;
-            var currentReports = currentEmployee.DirectReports.Count;
             currentEmployee.DirectReports.ForEach(report =>
             {
                 count = count + GetReportingStructure(report.EmployeeId).numberOfReports;
