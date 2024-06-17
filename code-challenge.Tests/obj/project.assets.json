@@ -15415,24 +15415,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\csadler\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\clayt\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge.Tests\\code-challenge.Tests.Integration.csproj",
+      "projectUniqueName": "C:\\Users\\clayt\\Source\\Repos\\Code-Challenge\\code-challenge.Tests\\code-challenge.Tests.Integration.csproj",
       "projectName": "code-challenge.Tests.Integration",
-      "projectPath": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge.Tests\\code-challenge.Tests.Integration.csproj",
-      "packagesPath": "C:\\Users\\csadler\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge.Tests\\obj\\",
+      "projectPath": "C:\\Users\\clayt\\Source\\Repos\\Code-Challenge\\code-challenge.Tests\\code-challenge.Tests.Integration.csproj",
+      "packagesPath": "C:\\Users\\clayt\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\clayt\\Source\\Repos\\Code-Challenge\\code-challenge.Tests\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\csadler\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\clayt\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -15447,8 +15442,8 @@
         "netcoreapp2.1": {
           "targetAlias": "netcoreapp2.1",
           "projectReferences": {
-            "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\code-challenge.csproj": {
-              "projectPath": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\code-challenge.csproj"
+            "C:\\Users\\clayt\\Source\\Repos\\Code-Challenge\\code-challenge\\code-challenge.csproj": {
+              "projectPath": "C:\\Users\\clayt\\Source\\Repos\\Code-Challenge\\code-challenge\\code-challenge.csproj"
             }
           }
         }
@@ -15502,7 +15497,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   },

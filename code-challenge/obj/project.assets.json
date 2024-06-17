@@ -14130,24 +14130,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\csadler\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\clayt\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\code-challenge.csproj",
+      "projectUniqueName": "C:\\Users\\clayt\\Source\\Repos\\Code-Challenge\\code-challenge\\code-challenge.csproj",
       "projectName": "code-challenge",
-      "projectPath": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\code-challenge.csproj",
-      "packagesPath": "C:\\Users\\csadler\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\obj\\",
+      "projectPath": "C:\\Users\\clayt\\Source\\Repos\\Code-Challenge\\code-challenge\\code-challenge.csproj",
+      "packagesPath": "C:\\Users\\clayt\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\clayt\\Source\\Repos\\Code-Challenge\\code-challenge\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\csadler\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\clayt\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -14209,7 +14204,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   },
