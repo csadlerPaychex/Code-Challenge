@@ -1,24 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\clayt\\Source\\Repos\\Code-Challenge\\code-challenge.Tests\\code-challenge.Tests.Integration.csproj": {}
+    "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge.Tests\\code-challenge.Tests.Integration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\clayt\\Source\\Repos\\Code-Challenge\\code-challenge.Tests\\code-challenge.Tests.Integration.csproj": {
+    "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge.Tests\\code-challenge.Tests.Integration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\clayt\\Source\\Repos\\Code-Challenge\\code-challenge.Tests\\code-challenge.Tests.Integration.csproj",
+        "projectUniqueName": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge.Tests\\code-challenge.Tests.Integration.csproj",
         "projectName": "code-challenge.Tests.Integration",
-        "projectPath": "C:\\Users\\clayt\\Source\\Repos\\Code-Challenge\\code-challenge.Tests\\code-challenge.Tests.Integration.csproj",
-        "packagesPath": "C:\\Users\\clayt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\clayt\\Source\\Repos\\Code-Challenge\\code-challenge.Tests\\obj\\",
+        "projectPath": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge.Tests\\code-challenge.Tests.Integration.csproj",
+        "packagesPath": "C:\\Users\\csadler\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge.Tests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\clayt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\csadler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -26,11 +30,11 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
-            "targetAlias": "netcoreapp2.1",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\clayt\\Source\\Repos\\Code-Challenge\\code-challenge\\code-challenge.csproj": {
-                "projectPath": "C:\\Users\\clayt\\Source\\Repos\\Code-Challenge\\code-challenge\\code-challenge.csproj"
+              "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\code-challenge.csproj": {
+                "projectPath": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\code-challenge.csproj"
               }
             }
           }
@@ -47,8 +51,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
-          "targetAlias": "netcoreapp2.1",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "MSTest.TestAdapter": {
               "target": "Package",
@@ -65,12 +69,6 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[15.7.2, )"
-            },
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.1.0, )",
-              "autoReferenced": true
             }
           },
           "imports": [
@@ -84,25 +82,34 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\clayt\\Source\\Repos\\Code-Challenge\\code-challenge\\code-challenge.csproj": {
+    "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\code-challenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\clayt\\Source\\Repos\\Code-Challenge\\code-challenge\\code-challenge.csproj",
+        "projectUniqueName": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\code-challenge.csproj",
         "projectName": "code-challenge",
-        "projectPath": "C:\\Users\\clayt\\Source\\Repos\\Code-Challenge\\code-challenge\\code-challenge.csproj",
-        "packagesPath": "C:\\Users\\clayt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\clayt\\Source\\Repos\\Code-Challenge\\code-challenge\\obj\\",
+        "projectPath": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\code-challenge.csproj",
+        "packagesPath": "C:\\Users\\csadler\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\clayt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\csadler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -110,8 +117,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
-            "targetAlias": "netcoreapp2.1",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -127,26 +134,34 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
-          "targetAlias": "netcoreapp2.1",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.All": {
+            "Microsoft.ApplicationInsights": {
               "target": "Package",
-              "version": "[2.0.6, )"
+              "version": "[2.22.0, )"
             },
-            "Microsoft.AspNetCore.JsonPatch": {
+            "Microsoft.ApplicationInsights.AspNetCore": {
               "target": "Package",
-              "version": "[2.0.0, )"
+              "version": "[2.22.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
             },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
-              "version": "[2.0.2, )"
+              "version": "[8.0.6, )"
             },
-            "Microsoft.NETCore.App": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.0, )",
-              "autoReferenced": true
+              "version": "[8.0.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
@@ -160,7 +175,15 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

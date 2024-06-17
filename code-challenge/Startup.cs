@@ -42,11 +42,11 @@ namespace code_challenge
             services.AddScoped<IEmployeeService, EmployeeService>();
             services.AddScoped<ICompensationRepository, CompensationRepository>();
             services.AddScoped<ICompensationService, CompensationService>();
-            services.AddMvc();
+            services.AddMvc(options => options.EnableEndpointRouting = false);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env, EmployeeDataSeeder seeder)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, EmployeeDataSeeder seeder)
         {
             if (env.IsDevelopment())
             {

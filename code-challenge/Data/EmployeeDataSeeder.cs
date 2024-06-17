@@ -1,5 +1,5 @@
 ﻿using challenge.Models;
-using Microsoft.AspNetCore.ApplicationInsights.HostingStartup;
+//using Microsoft.ApplicationInsights.HostingStartup;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
