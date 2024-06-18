@@ -3,67 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\csadler\\source\\repos\\code_challenge\\code-challenge\\code-challenge\\code-challenge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\code-challenge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\csadler\\source\\repos\\code_challenge\\code-challenge\\code-challenge\\controllers\\compensationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\controllers\\compensationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\csadler\\source\\repos\\code_challenge\\code-challenge\\code-challenge\\data\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\data\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFCF139-7A42-4E38-B638-856076B0108A}|code-challenge.Tests\\code-challenge.Tests.Integration.csproj|c:\\users\\csadler\\source\\repos\\code_challenge\\code-challenge\\code-challenge.tests\\employeecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFCF139-7A42-4E38-B638-856076B0108A}|code-challenge.Tests\\code-challenge.Tests.Integration.csproj|solutionrelative:code-challenge.tests\\employeecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\csadler\\source\\repos\\code_challenge\\code-challenge\\code-challenge\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\csadler\\source\\repos\\code_challenge\\code-challenge\\code-challenge\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFCF139-7A42-4E38-B638-856076B0108A}|code-challenge.Tests\\code-challenge.Tests.Integration.csproj|c:\\users\\csadler\\source\\repos\\code_challenge\\code-challenge\\code-challenge.tests\\testserverstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EFCF139-7A42-4E38-B638-856076B0108A}|code-challenge.Tests\\code-challenge.Tests.Integration.csproj|solutionrelative:code-challenge.tests\\testserverstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\csadler\\source\\repos\\code_challenge\\code-challenge\\code-challenge\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\csadler\\source\\repos\\code_challenge\\code-challenge\\code-challenge\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EFCF139-7A42-4E38-B638-856076B0108A}|code-challenge.Tests\\code-challenge.Tests.Integration.csproj|c:\\users\\csadler\\source\\repos\\code_challenge\\code-challenge\\code-challenge.tests\\code-challenge.tests.integration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0EFCF139-7A42-4E38-B638-856076B0108A}|code-challenge.Tests\\code-challenge.Tests.Integration.csproj|solutionrelative:code-challenge.tests\\code-challenge.tests.integration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\csadler\\source\\repos\\code_challenge\\code-challenge\\code-challenge\\data\\employeedataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\data\\employeedataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\csadler\\source\\repos\\code_challenge\\code-challenge\\code-challenge\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\csadler\\source\\repos\\code_challenge\\code-challenge\\code-challenge\\services\\compensationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\services\\compensationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\csadler\\source\\repos\\code_challenge\\code-challenge\\code-challenge\\data\\compensationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\data\\compensationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\csadler\\source\\repos\\code_challenge\\code-challenge\\code-challenge\\repositories\\compensationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\repositories\\compensationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\csadler\\source\\repos\\code_challenge\\code-challenge\\code-challenge\\repositories\\icompensationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\repositories\\icompensationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\csadler\\source\\repos\\code_challenge\\code-challenge\\code-challenge\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\csadler\\source\\repos\\code_challenge\\code-challenge\\code-challenge\\repositories\\employeerespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\repositories\\employeerespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\csadler\\source\\repos\\code_challenge\\code-challenge\\code-challenge\\models\\compensation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\models\\compensation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\csadler\\source\\repos\\code_challenge\\code-challenge\\code-challenge\\controllers\\compensationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\controllers\\compensationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\csadler\\source\\repos\\code_challenge\\code-challenge\\code-challenge\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\csadler\\source\\repos\\code_challenge\\code-challenge\\code-challenge\\data\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\data\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|c:\\users\\csadler\\source\\repos\\code_challenge\\code-challenge\\code-challenge\\data\\compensationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|code-challenge\\code-challenge.csproj|solutionrelative:code-challenge\\data\\compensationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -73,141 +58,116 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "code-challenge.Tests.Integration",
-              "DocumentMoniker": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge.Tests\\code-challenge.Tests.Integration.csproj",
-              "RelativeDocumentMoniker": "code-challenge.Tests\\code-challenge.Tests.Integration.csproj",
-              "ToolTip": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge.Tests\\code-challenge.Tests.Integration.csproj",
-              "RelativeToolTip": "code-challenge.Tests\\code-challenge.Tests.Integration.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-17T15:54:20.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Microsoft.PackageDependencyResolution.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "ViewState": "AQIAAPMAAAAAAAAAAAArwAkBAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-06-17T15:53:47.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "code-challenge",
-              "DocumentMoniker": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\code-challenge.csproj",
-              "RelativeDocumentMoniker": "code-challenge\\code-challenge.csproj",
-              "ToolTip": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\code-challenge.csproj",
-              "RelativeToolTip": "code-challenge\\code-challenge.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-17T15:19:49.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Startup.cs",
               "RelativeDocumentMoniker": "code-challenge\\Startup.cs",
               "ToolTip": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Startup.cs",
               "RelativeToolTip": "code-challenge\\Startup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T14:10:09.551Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EmployeeDataSeeder.cs",
-              "DocumentMoniker": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Data\\EmployeeDataSeeder.cs",
-              "RelativeDocumentMoniker": "code-challenge\\Data\\EmployeeDataSeeder.cs",
-              "ToolTip": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Data\\EmployeeDataSeeder.cs",
-              "RelativeToolTip": "code-challenge\\Data\\EmployeeDataSeeder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T13:43:09.108Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "code-challenge\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Properties\\launchSettings.json",
+              "RelativeToolTip": "code-challenge\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-18T20:02:58.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\appsettings.json",
+              "RelativeDocumentMoniker": "code-challenge\\appsettings.json",
+              "ToolTip": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\appsettings.json",
+              "RelativeToolTip": "code-challenge\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-18T20:02:47.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "code-challenge\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\appsettings.Development.json",
+              "RelativeToolTip": "code-challenge\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-18T20:02:43.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestServerStartup.cs",
+              "DocumentMoniker": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge.Tests\\TestServerStartup.cs",
+              "RelativeDocumentMoniker": "code-challenge.Tests\\TestServerStartup.cs",
+              "ToolTip": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge.Tests\\TestServerStartup.cs",
+              "RelativeToolTip": "code-challenge.Tests\\TestServerStartup.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwC4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T20:35:17.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge.Tests\\EmployeeControllerTests.cs",
+              "RelativeDocumentMoniker": "code-challenge.Tests\\EmployeeControllerTests.cs",
+              "ToolTip": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge.Tests\\EmployeeControllerTests.cs",
+              "RelativeToolTip": "code-challenge.Tests\\EmployeeControllerTests.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAiwEEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T20:33:16.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EmployeeContext.cs",
               "DocumentMoniker": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Data\\EmployeeContext.cs",
               "RelativeDocumentMoniker": "code-challenge\\Data\\EmployeeContext.cs",
               "ToolTip": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Data\\EmployeeContext.cs",
               "RelativeToolTip": "code-challenge\\Data\\EmployeeContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T12:33:15.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EmployeeRespository.cs",
-              "DocumentMoniker": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Repositories\\EmployeeRespository.cs",
-              "RelativeDocumentMoniker": "code-challenge\\Repositories\\EmployeeRespository.cs",
-              "ToolTip": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Repositories\\EmployeeRespository.cs",
-              "RelativeToolTip": "code-challenge\\Repositories\\EmployeeRespository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T14:27:11.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "code-challenge\\Models\\Employee.cs",
               "ToolTip": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Models\\Employee.cs",
               "RelativeToolTip": "code-challenge\\Models\\Employee.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBkAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T13:04:11.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ICompensationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Repositories\\ICompensationRepository.cs",
-              "RelativeDocumentMoniker": "code-challenge\\Repositories\\ICompensationRepository.cs",
-              "ToolTip": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Repositories\\ICompensationRepository.cs",
-              "RelativeToolTip": "code-challenge\\Repositories\\ICompensationRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T12:45:42.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CompensationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Repositories\\CompensationRepository.cs",
-              "RelativeDocumentMoniker": "code-challenge\\Repositories\\CompensationRepository.cs",
-              "ToolTip": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Repositories\\CompensationRepository.cs",
-              "RelativeToolTip": "code-challenge\\Repositories\\CompensationRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T19:11:55.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "CompensationContext.cs",
               "DocumentMoniker": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Data\\CompensationContext.cs",
               "RelativeDocumentMoniker": "code-challenge\\Data\\CompensationContext.cs",
@@ -220,59 +180,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CompensationService.cs",
-              "DocumentMoniker": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Services\\CompensationService.cs",
-              "RelativeDocumentMoniker": "code-challenge\\Services\\CompensationService.cs",
-              "ToolTip": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Services\\CompensationService.cs",
-              "RelativeToolTip": "code-challenge\\Services\\CompensationService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T12:30:52.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "EmployeeService.cs",
               "DocumentMoniker": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Services\\EmployeeService.cs",
               "RelativeDocumentMoniker": "code-challenge\\Services\\EmployeeService.cs",
               "ToolTip": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Services\\EmployeeService.cs",
               "RelativeToolTip": "code-challenge\\Services\\EmployeeService.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAjwBMAAAAdAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAhwEUAAABZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T20:34:49.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "code-challenge\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "code-challenge\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T20:10:57.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
               "Title": "CompensationController.cs",
               "DocumentMoniker": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Controllers\\CompensationController.cs",
               "RelativeDocumentMoniker": "code-challenge\\Controllers\\CompensationController.cs",
-              "ToolTip": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Controllers\\CompensationController.cs",
-              "RelativeToolTip": "code-challenge\\Controllers\\CompensationController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAdAAAA",
+              "ToolTip": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Controllers\\CompensationController.cs*",
+              "RelativeToolTip": "code-challenge\\Controllers\\CompensationController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T20:10:53.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "Compensation.cs",
               "DocumentMoniker": "C:\\Users\\csadler\\source\\repos\\Code_Challenge\\Code-Challenge\\code-challenge\\Models\\Compensation.cs",
               "RelativeDocumentMoniker": "code-challenge\\Models\\Compensation.cs",

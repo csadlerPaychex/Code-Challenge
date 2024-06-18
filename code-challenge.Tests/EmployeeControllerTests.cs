@@ -14,6 +14,7 @@ using System.Net;
 using System.Net.Http;
 using code_challenge.Tests.Integration.Helpers;
 using System.Text;
+using static System.Net.WebRequestMethods;
 
 namespace code_challenge.Tests.Integration
 {
@@ -30,7 +31,9 @@ namespace code_challenge.Tests.Integration
                 .UseStartup<TestServerStartup>()
                 .UseEnvironment("Development"));
 
+            var testUri = new Uri("http://localhost:8080/");
             _httpClient = _testServer.CreateClient();
+            _httpClient.BaseAddress = testUri;
         }
 
         [ClassCleanup]

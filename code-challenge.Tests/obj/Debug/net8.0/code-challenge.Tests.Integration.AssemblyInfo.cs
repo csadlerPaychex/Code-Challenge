@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("code-challenge.Tests.Integration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0499845f58c44c2b64ec8ff0261644e95e9b1ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0f38fbf75a8eaefa6e01b912ef429eb82dd5011")]
 [assembly: System.Reflection.AssemblyProductAttribute("code-challenge.Tests.Integration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("code-challenge.Tests.Integration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
